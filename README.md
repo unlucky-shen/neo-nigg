@@ -4,19 +4,19 @@
 
 ### Using Powershell
 
-1. Download Neovim,
+1. **Download Neovim,**
 
     `winget install Neovim.Neovim`
 
-1. git (for lazy.nvim),
+1. **git (for lazy.nvim),**
 
    `winget install Git.Git`
 
-2. Node.js (for treesitter, lsp servers)
+2. **Node.js (for treesitter, lsp servers)**
 
     `winget install OpenJS.NodeJS.LTS`
 
-3. Python Tools
+3. **Python Tools (for some plugins)**
 
     `winget install Python.Python.3.xx` -- check for latest
 
@@ -24,16 +24,16 @@
 
     `pip install pynvim`
 
-4. MinGW
+4. **MinGW**
 
      * https://winlibs.com/#download-release
      * Add bin folder to PATH
 
-5. CMake (from some debuggers)
+5. **CMake (for some debuggers)**
 
     `winget install Kitware.CMake`
 
-6. Optional Stuffs,
+6. **Optional Stuffs,**
 
     `winget install BurntSushi.ripgrep.MSVC`
 
