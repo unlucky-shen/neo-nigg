@@ -4,9 +4,11 @@
 
 ### Using Powershell
 
-1. **Download Neovim,**
+1. **Download Neovim,** 
 
-    `winget install Neovim.Neovim`
+```Powershell
+winget install Neovim.Neovim
+```
 
 1. **git (for lazy.nvim),**
 
