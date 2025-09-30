@@ -12,19 +12,25 @@ winget install Neovim.Neovim
 
 1. **git (for lazy.nvim),**
 
-   `winget install Git.Git`
+```Powershell
+winget install Git.Git
+```
 
 2. **Node.js (for treesitter, lsp servers)**
 
-    `winget install OpenJS.NodeJS.LTS`
+```Powershell
+winget install OpenJS.NodeJS.LTS
+```
 
 3. **Python Tools (for some plugins)**
 
-    `winget install Python.Python.3.xx` -- check for latest
+```Powershell
+winget install Python.Python.3.xx
 
-    `python -m pip install --upgrade pip`
+python -m pip install --upgrade pip
 
-    `pip install pynvim`
+pip install pynvim
+```
 
 4. **MinGW**
 
@@ -33,14 +39,17 @@ winget install Neovim.Neovim
 
 5. **CMake (for some debuggers)**
 
-    `winget install Kitware.CMake`
+```Powershell
+winget install Kitware.CMake
+```
 
 6. **Optional Stuffs,**
 
-    `winget install BurntSushi.ripgrep.MSVC`
+```Powershell
+winget install BurntSushi.ripgrep.MSVC
 
-    `winget install fzf`
+winget install fzf
 
-    `winget install 7zip.7zip`
-
+winget install 7zip.7zip
+```
 
