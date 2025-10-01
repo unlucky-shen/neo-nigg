@@ -2,7 +2,7 @@
 
 ### Pre-Requisites for Windows
 
-#### Using Powershell
+**Using Powershell,**
 
 1. **Download Neovim,** 
 
