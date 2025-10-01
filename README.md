@@ -2,9 +2,10 @@
 
 ## Pre-Requisites for Windows (who tf uses windows yo 😭)
 
+Using Powershell,
+
 1. Git (For lazy.nvim)
-'''Powershell
-winget install Git.Git
+    winget install Git.Git
 
 
 ##
