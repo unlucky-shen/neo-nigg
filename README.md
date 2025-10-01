@@ -1,4 +1,4 @@
-# Neo-nigg (get neovim up and running on Windows/Linux)
+# Neovim Stuffs
 
 ### Pre-Requisites for Windows
 
