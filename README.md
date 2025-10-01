@@ -1,8 +1,8 @@
 # Neo-nigg (get neovim up and running on Windows/Linux)
 
-## Pre-Requisites for Windows
+### Pre-Requisites for Windows
 
-### Using Powershell
+#### Using Powershell
 
 1. **Download Neovim,** 
 
