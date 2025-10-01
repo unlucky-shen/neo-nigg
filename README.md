@@ -5,7 +5,8 @@
 Using Powershell,
 
 1. Git (For lazy.nvim)
+
    `winget install Git.Git`
 
-
+2. 
 ##
