@@ -52,3 +52,6 @@ winget install fzf
 
 winget install 7zip.7zip
 ```
+### Pre-Requisites for Linux (Ubuntu/Debian)
+
+In progress......
